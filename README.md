@@ -1,2 +1,1 @@
-# projects
-My random projects.
+Wer wird Millionär?
